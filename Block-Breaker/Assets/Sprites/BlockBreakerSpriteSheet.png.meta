@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 5b1946e07e5d6d345a72a9703877d3c8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlockBreakerSpriteSheet_0
+    21300002: BlockBreakerSpriteSheet_1
+    21300004: BlockBreakerSpriteSheet_2
+    21300006: BlockBreakerSpriteSheet_3
+    21300008: BlockBreakerSpriteSheet_4
+    21300010: BlockBreakerSpriteSheet_5
+    21300012: BlockBreakerSpriteSheet_6
+    21300014: BlockBreakerSpriteSheet_7
+    21300016: BlockBreakerSpriteSheet_8
+    21300018: BlockBreakerSpriteSheet_9
+    21300020: BlockBreakerSpriteSheet_10
+    21300022: BlockBreakerSpriteSheet_11
+    21300024: BlockBreakerSpriteSheet_12
+    21300026: BlockBreakerSpriteSheet_13
+    21300028: BlockBreakerSpriteSheet_14
+    21300030: BlockBreakerSpriteSheet_15
+    21300032: BlockBreakerSpriteSheet_16
+    21300034: BlockBreakerSpriteSheet_17
+    21300036: BlockBreakerSpriteSheet_18
+    21300038: BlockBreakerSpriteSheet_19
+    21300040: BlockBreakerSpriteSheet_20
+    21300042: BlockBreakerSpriteSheet_21
+    21300044: BlockBreakerSpriteSheet_22
+    21300046: BlockBreakerSpriteSheet_23
+    21300048: BlockBreakerSpriteSheet_24
+    21300050: BlockBreakerSpriteSheet_25
+    21300052: BlockBreakerSpriteSheet_26
+    21300054: BlockBreakerSpriteSheet_27
+    21300056: BlockBreakerSpriteSheet_28
+    21300058: BlockBreakerSpriteSheet_29
+    21300060: BlockBreakerSpriteSheet_30
+    21300062: BlockBreakerSpriteSheet_31
+    21300064: BlockBreakerSpriteSheet_32
+    21300066: BlockBreakerSpriteSheet_33
+    21300068: BlockBreakerSpriteSheet_34
+    21300070: BlockBreakerSpriteSheet_35
+    21300072: BlockBreakerSpriteSheet_36
+    21300074: BlockBreakerSpriteSheet_37
+    21300076: BlockBreakerSpriteSheet_38
+    21300078: BlockBreakerSpriteSheet_39
+    21300080: BlockBreakerSpriteSheet_40
+    21300082: BlockBreakerSpriteSheet_41
+    21300084: BlockBreakerSpriteSheet_42
+    21300086: BlockBreakerSpriteSheet_43
+    21300088: BlockBreakerSpriteSheet_44
+    21300090: BlockBreakerSpriteSheet_45
+    21300092: BlockBreakerSpriteSheet_46
+    21300094: BlockBreakerSpriteSheet_47
+    21300096: BlockBreakerSpriteSheet_48
+    21300098: BlockBreakerSpriteSheet_49
+    21300100: BlockBreakerSpriteSheet_50
+    21300102: BlockBreakerSpriteSheet_51
+    21300104: BlockBreakerSpriteSheet_52
+    21300106: BlockBreakerSpriteSheet_53
+    21300108: BlockBreakerSpriteSheet_54
+    21300110: BlockBreakerSpriteSheet_55
+    21300112: BlockBreakerSpriteSheet_56
+    21300114: BlockBreakerSpriteSheet_57
+    21300116: BlockBreakerSpriteSheet_58
+    21300118: BlockBreakerSpriteSheet_59
+    21300120: BlockBreakerSpriteSheet_60
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 693
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c78585bf952ea419b72fa59a2a0f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 693
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2e094045c7814fb198a1afc3bbc93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 709
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7df60f75be9734aba670e99de47059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 710
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c658cf8f2992a64b9c56f9482903a7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 710
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909adcc36b78f664293367aa454cda6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 617
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d35083ad141141acef04a9145992d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 617
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c68b1b59d06744a8f0c30dc05e453c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 650
+        width: 149
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258554536e65fec4e9822ad943734820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 650
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eaa6865ed3c264481b109f4db070c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 650
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6156d82e11de64b9df2266b07d905a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 542
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca81f0e23a752949b60d97b14122ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 542
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daec45b0b65332b4e9a188a0978cec43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 591
+        width: 154
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00876c3e94fb8074eb9f22d498de220c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 591
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f6659f94742e4a80a3dbd4e7b25ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 588
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b6a816e014504aa25bd7c51cfb4bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 531
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a9313aa31f2945a22bb9dc79e86c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 531
+        width: 154
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12d4482090b06448f8175edea88fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 531
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61399c398dba56c4ca7f381b9a4ea3c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 467
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066e1d69de2b284e85edcc1189b08dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 467
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa071fc4aa4f714c86ce7007ca43d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 471
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f269efe4f50dd449ce26837926a1cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 471
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b31231e9f586458e849fd5a45fa59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 472
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e338daf42efcf478ca5abb916c445e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 391
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1489f4f5a5d65348a4567203c0b63e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 391
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157eab16381ea6f468fbc3882d6c5406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 412
+        width: 154
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c5a40662d38a478011cc5d56bc688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 412
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb0065d8451e84792b975fc2100e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 412
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439bca1dc446f7346a7b898a4b74b952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 316
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b333bb697a584689a4eaec33e7fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 316
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ae852e5267934bbeaebdbf8500601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 353
+        width: 154
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa57c42765b3b4469c9e7eb5997a869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 353
+        width: 219
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bacefa382a30de4a90607346fc3a0d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 325
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a956c1bb5d31354a83fd62fc3b70b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84c16d555ba86147bdd41e555fb3407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 240
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405d802786137941a2e11c3260e8df9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 273
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e926be1836d74f8f70706fe8326bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 273
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f55b26b09b0b46bc97263a8c847d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 274
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7920928489174682751917af6e0b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 273
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9852827963d26b14c9537ec35057ba3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 273
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb990b7633856459c5e121d9363b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 238
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabd5e74ac77674484d66fab5bcab26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 165
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa8b126cadde484c94bb7e15efa07d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 165
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748f4919e35e1ed47a6f8affcfc1d70b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bff2453045e05469abc1a6968dc66c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 196
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61fba844d6f1445887e99683eaf7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 196
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe5808d38f42e947be0a185f4d1f0c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 196
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8a053845c80d40b425f956b609a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 196
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e69bb5a063584cb80898d3eff36a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 144
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da9edd01231134eaacb0d2851fdb62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 170
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc7b64f62cae604d80da492da1ff0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 90
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee454c84129244eb368d873901451d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 135
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ead1262f3bc5df4b829f58e27bee3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 135
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67eb2ce467e9d428eb5da6e0fbe006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 142
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affb064de7fca174185820b2ae0be844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 75
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d619d997797e54198cd8a979ebb1e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 74
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7544586a5f03e24ba76372b15ba7dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 75
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb333c66f83c03e478bdf2ae620cc04c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 14
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecba787076d7744fba10ca1cfb6cdc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6474ca52aad0f546954d90eafa08fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e4dd18982f2c448752ed15599fd61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakerSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 18
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507f2867a6b66248b2db099d7eefa94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd9152d0a5ddbd4469ef0bd2be0a4aab
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
